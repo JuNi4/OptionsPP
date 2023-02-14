@@ -9,6 +9,11 @@ A library for everyting related to the options.txt (Made to replicate the option
  (Included in MC++ [https://github.com/juni4/MinecraftPP])
   - utils.hpp
   - os.hpp
+  
+Installation:
+- Download the latest release
+- Extract the zip archive and move the options folder to you include folder
+- put the required libraries in the include folder
 
 Demo script:
 ```cpp
