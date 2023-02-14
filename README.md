@@ -1,7 +1,7 @@
 ## Minecraft++ Options file library
 By: @JuNi4
 
-A library for everyting related to the options.txt
+A library for everyting related to the options.txt (Made to replicate the options.txt file from Minecraft)
 
 -- Requirements --
   - nlohmann/json (https://github.com/nlohmann/json)
