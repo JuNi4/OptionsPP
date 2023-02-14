@@ -17,6 +17,20 @@ Installation:
 
 Demo script:
 ```cpp
+/*
+This goal of this demo is for you to understand how to use this library.
+The thing that this script acomplishes are:
+ - it deletes the options file and key binds file
+ - Next, it will check if the optionsfile already exists, wich it shuldn't
+ - if it doesn't, it will check if the options.txt file in the default minecraft directory exists
+ - if that is the case, it will import it
+ - otherwise, it will create ana options.txt and keyBinds.txt from scratch
+ 
+ - Next, it will load the options file
+ - then it will directly write a different title to the optionsfile
+ - after that it will save the unchanged json object, containing the options, to the file, reverting the in the previous step changed title back to Minecraft++
+*/
+
 #include <nlohmann/json.hpp>
 #include <iostream>
 
