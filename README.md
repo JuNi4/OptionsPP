@@ -13,7 +13,8 @@ A library for everyting related to the options.txt (Made to replicate the option
 Installation:
 - Download the latest release
 - Extract the zip archive and move the options folder to you include folder
-- Gut the required libraries in the include folder
+- Put the required libraries in the include folder
+- If needed, change the default path for the options file and key binds file by changing the return string from the defaultOptionsPath function and defaultKeyBindsPath function
 
 Demo script:
 ```cpp
