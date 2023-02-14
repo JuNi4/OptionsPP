@@ -13,7 +13,7 @@ A library for everyting related to the options.txt (Made to replicate the option
 Installation:
 - Download the latest release
 - Extract the zip archive and move the options folder to you include folder
-- put the required libraries in the include folder
+- Gut the required libraries in the include folder
 
 Demo script:
 ```cpp
