@@ -19,7 +19,7 @@ Demo script:
 ```cpp
 /*
 This goal of this demo is for you to understand how to use this library.
-The thing that this script acomplishes are:
+The things that this script acomplishes are:
  - it deletes the options file and key binds file
  - Next, it will check if the optionsfile already exists, wich it shuldn't
  - if it doesn't, it will check if the options.txt file in the default minecraft directory exists
